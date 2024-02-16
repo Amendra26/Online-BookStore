@@ -1,0 +1,1 @@
+Designed and implemented a dynamic online bookstore using Java, incorporating SQL for efficient database management. Leveraged Spring Boot to facilitate smooth backend operations, including user authentication, inventory management, and seamless transactions.
